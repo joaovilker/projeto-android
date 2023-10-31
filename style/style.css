@@ -175,6 +175,9 @@ div.video > iframe {
     display: inline-block;
 
 }
+.periferico li{
+    padding:  0px 90px 0px 0px;
+}
 .periferico p {
     text-indent: 2em;
     text-align: justify;
